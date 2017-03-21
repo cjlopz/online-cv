@@ -15,12 +15,13 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Carlos J. Lopez
 tagline: 
-pic: #  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: contact@carlosjlopez.com
 website: carlosjlopez.com #do not add http://
 linkedin: carlosjlopez1
+github: 
 twitter: '@carlosjlopez'
 
 #Update all the sections by editing the files inside _includes folder.
